@@ -23,8 +23,8 @@ To write a Java  program to:
 ## Program:
 ```
 Program to  Right Rotation LinkedList
-Developed by: GNANENDRAN N
-Register Number: 212223240037
+Developed by: PRADEEP KUMAR G
+Register Number: 212223230150
 ```
 ```JAVA
 import java.util.Scanner;
